@@ -1,5 +1,5 @@
 function mensagem(nome) {
-    console.log(`Olá, ${nome}`)
+    console.log(`Olá, ${nome}`);
 }
 
-mensagem("Professor")
+mensagem("Professor");
